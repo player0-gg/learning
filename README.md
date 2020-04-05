@@ -5,6 +5,9 @@
 -  [Project server](https://github.com/player0-gg/docker-flask-web)
 ### Working
 - [ ] **server**: example Angular simple module
+* Official example tour of heroes [link](https://angular.io/tutorial/toh-pt0) 
+* Repository: [angular-tour-of-heroes](https://github.com/player0-gg/angular-tour-of-heroes)
+* Issue: part 6 instable on Macos
 ### Paused
 - [ ] **server**: example Kubernetes Docker Flask Web on MacOs: simple service
 * Issue: no response from pods (DNS config?)
