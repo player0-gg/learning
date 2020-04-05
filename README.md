@@ -3,7 +3,9 @@
 ### Links
 -  [Project device](https://github.com/player0-gg/docker-pyqt-raspberrypi)
 -  [Project server](https://github.com/player0-gg/docker-flask-web)
-### Working on
+### Working
+- [ ] **server**: example Angular simple module
+### Paused
 - [ ] **server**: example Kubernetes Docker Flask Web on MacOs: simple service
 * Issue: no response from pods (DNS config?)
 
@@ -12,7 +14,6 @@
 - [ ] **server**: using new app structure due to Flask mega tutorial (optional)
 - [ ] **server**: integration OpenCV simple module
 - [ ] **server**: integration OpenCV &  TensorFlow detect simple objects from images
-- [ ] **server**: example Angular simple module
 - [ ] **server**: service & deployment all
 - [ ] **device**: integration PyQtGraph simple module
 - [ ] **device**: integration OpenCV simple module using camera
